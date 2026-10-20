@@ -1,0 +1,25 @@
+{
+    "$schema": "https://bodhi.network/v1/card-hypercontract.json",
+    "contract_id": "bodhi.sieu-xor-node.v1",
+    "identity": {
+        "repo": "100048777766367/sieu-xor-node",
+        "archetype": "SIEU_XOR_SINGULARITY",
+        "genesis_root": "100048777766367/contract"
+    },
+    "taxonomy_10_axes": {
+        "01_nature": "SYSTEM_ENTITY",
+        "02_rarity": "R6_UNIQUE",
+        "03_power_tier": "T7_SINGULARITY",
+        "04_role": "CONTROLLER_DISRUPTOR",
+        "05_mechanism": "LOGICAL_ALGEBRAIC_XOR",
+        "06_affinity": "LOGIC_DATA_VOID",
+        "07_evolution": "BRANCHING_EVOLUTION",
+        "08_relationship": "HYPERGRAPH_SYNERGY_COUNTER",
+        "09_origin": "DIGITAL_COSMIC",
+        "10_runtime_state": "ACTIVE_TERRITORY"
+    },
+    "algebraic_kernel": {
+        "operator": "BITWISE_XOR",
+        "reversible_law": "A ^ B ^ B == A"
+    }
+}
