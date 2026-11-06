@@ -1,7 +1,7 @@
 {
     "contract": "bodhi.contract.v1",
     "identity": "100048777766367/sieu-xor-node",
-    "epoch": 57,
-    "cid": "31cff2c40754f9d9d6912fe10a7d1972d434da72e45242f9799cb82e8d8a89b7c4d1711e7d6bfd0713a6b264bd86f4f765b141e7a099d7604636e099c146ad0b",
+    "epoch": 58,
+    "cid": "9a3c599ad87118f73f37382f6901708482b6fb511b8c07443b41fbd5f5be3ae2eefcc34ee02cbe8aaa7cf205c4d0fb762ce2704904a569f41818f4a13a7da8a0",
     "proof": "XOR_INVARIANT_VALID"
 }
